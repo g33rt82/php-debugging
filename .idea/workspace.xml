@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88fbd873-de53-4de6-aca5-589e976aa0de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="phpdebugging.local" id="3d3836fa-e973-438f-bbf8-d0811c5f9e44" name="phpdebugging.local" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/php-debugging" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1UYiWHAuRWafjRoKWAIvoZ6Lb0r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88fbd873-de53-4de6-aca5-589e976aa0de" name="Default Changelist" comment="" />
+      <created>1575539959905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575539959905</updated>
+      <workItem from="1575539961338" duration="12756000" />
+      <workItem from="1575557213856" duration="5427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="91" width="800" height="677" key="#Notifications" timestamp="1575557851159">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state x="395" y="91" width="800" height="677" key="#Notifications/0.27.1600.808@0.27.1600.808" timestamp="1575557851159" />
+    <state x="445" y="27" width="700" height="808" key="#PHP" timestamp="1575557989849">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state x="445" y="27" width="700" height="808" key="#PHP/0.27.1600.808@0.27.1600.808" timestamp="1575557989849" />
+    <state x="502" y="256" width="585" height="400" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#" timestamp="1575557466087">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state x="502" y="256" width="585" height="400" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#/0.27.1600.808@0.27.1600.808" timestamp="1575557466087" />
+    <state x="1000" y="194" width="286" height="593" key="#xdebugger.evaluate" timestamp="1575547700811">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state x="1000" y="194" width="286" height="593" key="#xdebugger.evaluate/0.27.1600.808@0.27.1600.808" timestamp="1575547700811" />
+    <state width="1554" height="261" key="GridCell.Tab.0.bottom" timestamp="1575560709099">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state width="1554" height="261" key="GridCell.Tab.0.bottom/0.27.1600.808@0.27.1600.808" timestamp="1575560709099" />
+    <state width="1554" height="261" key="GridCell.Tab.0.center" timestamp="1575560709098">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state width="1554" height="261" key="GridCell.Tab.0.center/0.27.1600.808@0.27.1600.808" timestamp="1575560709098" />
+    <state width="1554" height="261" key="GridCell.Tab.0.left" timestamp="1575560709098">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state width="1554" height="261" key="GridCell.Tab.0.left/0.27.1600.808@0.27.1600.808" timestamp="1575560709098" />
+    <state width="1554" height="261" key="GridCell.Tab.0.right" timestamp="1575560709098">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state width="1554" height="261" key="GridCell.Tab.0.right/0.27.1600.808@0.27.1600.808" timestamp="1575560709098" />
+    <state width="1554" height="261" key="GridCell.Tab.1.bottom" timestamp="1575560709100">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state width="1554" height="261" key="GridCell.Tab.1.bottom/0.27.1600.808@0.27.1600.808" timestamp="1575560709100" />
+    <state width="1554" height="261" key="GridCell.Tab.1.center" timestamp="1575560709099">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state width="1554" height="261" key="GridCell.Tab.1.center/0.27.1600.808@0.27.1600.808" timestamp="1575560709099" />
+    <state width="1554" height="261" key="GridCell.Tab.1.left" timestamp="1575560709099">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state width="1554" height="261" key="GridCell.Tab.1.left/0.27.1600.808@0.27.1600.808" timestamp="1575560709099" />
+    <state width="1554" height="261" key="GridCell.Tab.1.right" timestamp="1575560709100">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state width="1554" height="261" key="GridCell.Tab.1.right/0.27.1600.808@0.27.1600.808" timestamp="1575560709100" />
+    <state x="595" y="355" width="399" height="149" key="NewPhpFileDialog" timestamp="1575539981746">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state x="595" y="355" width="399" height="149" key="NewPhpFileDialog/0.27.1600.808@0.27.1600.808" timestamp="1575539981746" />
+    <state x="289" y="65" key="SettingsEditor" timestamp="1575557387101">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state x="289" y="65" key="SettingsEditor/0.27.1600.808@0.27.1600.808" timestamp="1575557387101" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="index.php">
+        <watch expression="$areTheseFruits[$i]" />
+        <watch expression="count($areTheseFruits)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
